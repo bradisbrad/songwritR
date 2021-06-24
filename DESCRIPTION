@@ -1,6 +1,9 @@
 Package: songwritR
 Title: What the Package Does (One Line, Title Case)
 Version: 0.0.0.9000
+Imports:
+  dplyr,
+  genius
 Authors@R: 
     person(given = "First",
            family = "Last",
