@@ -3,7 +3,8 @@ Title: What the Package Does (One Line, Title Case)
 Version: 0.0.0.9000
 Imports:
   dplyr,
-  genius
+  genius,
+  purrr
 Authors@R: 
     person(given = "First",
            family = "Last",
